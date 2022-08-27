@@ -1,13 +1,4 @@
 
-# EKLENECEKLER:
-# + 1- Sorulan kelimenin harflerini büyük karakter göstersin.
-# + 2- Kelime kütüphanesi oluştur (4-5-6-7-8-9 harfli) ve kategorilerine göre ayır.
-# + 3- Oyun menüsü oluştur.
-# + 4- Oyuncu adı sor ve yaptığı toplam skoru hesapla, sonrasında bunu bir text dosyasına kaydet.
-# - 5- Kelime doğru bilindiğinde adam asma sıfırlansın.
-
-# BAŞTAN AŞAĞI KODU KONTROL ET ÖZELLİKLE SEÇİM 1-2-3 KISMINA İYİ BAK!!
-
 import datetime
 import random
 from Kelimeler import *
